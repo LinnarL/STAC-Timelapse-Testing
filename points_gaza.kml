@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Namnlöst projekt</name>
+	<gx:CascadingStyle kml:id="__managed_style_25BC03778138E63C846F">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.42857</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>card</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_13DEB250CD38E63C846F">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2.28571</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>card</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_08125DC87538E63C846F">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_13DEB250CD38E63C846F</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_25BC03778138E63C846F</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="068246BB9C38E63C845F">
+		<name>Shifa Hospital</name>
+		<gx:mid>/m/05c22yp</gx:mid>
+		<gx:fid>0x14fd7f1796eeeae9:0xe276215cf67a84a1</gx:fid>
+		<LookAt>
+			<longitude>34.4428571</longitude>
+			<latitude>31.5243672</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>930.3887226200386</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_08125DC87538E63C846F</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>34.4428571,31.5243672,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B69C6D03638E63CEF3C">
+		<name>Nasser Hospital.</name>
+		<gx:mid>/g/11l5yn0mlr</gx:mid>
+		<gx:fid>0x14fd9050c1251435:0x7ff8772b97a19ae8</gx:fid>
+		<LookAt>
+			<longitude>34.29285799999999</longitude>
+			<latitude>31.3470697</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>932.3414392027098</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_08125DC87538E63C846F</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>34.292858,31.3470697,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08A250DA4D38E63D6438">
+		<name>Palestine Stadium</name>
+		<gx:mid>/m/0c799n</gx:mid>
+		<gx:fid>0x14fd7f10717ac4e9:0x2896406dc4eba004</gx:fid>
+		<LookAt>
+			<longitude>34.4513286</longitude>
+			<latitude>31.5220465</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>930.4143414618849</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_08125DC87538E63C846F</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>34.4513286,31.5220465,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="03CB660CF538E63DB6A8">
+		<name>Yarmouk Sports Club</name>
+		<gx:mid>/g/11cs2wk8k0</gx:mid>
+		<gx:fid>0x14fd7fabe36b0ce7:0x2bfd5d69b157df9a</gx:fid>
+		<LookAt>
+			<longitude>34.469326</longitude>
+			<latitude>31.5224037</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>930.4103983354718</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_08125DC87538E63C846F</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>34.4693298,31.5224066,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="047186F91438E63E011B">
+		<name>Sheikh Radwan</name>
+		<gx:mid>/m/05p6p2l</gx:mid>
+		<gx:fid>0x14fd7e57ca256f33:0xaa8764c581fa7cc5</gx:fid>
+		<LookAt>
+			<longitude>34.465442</longitude>
+			<latitude>31.5360215</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>4930.464769542546</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_08125DC87538E63C846F</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>34.465442,31.536022,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0575C4C84538E63ED6DE">
+		<name>Kamal Adwan School</name>
+		<gx:mid>/g/11c57smjsd</gx:mid>
+		<gx:fid>0x14fd9400d0719b57:0xbbd913d8c4ffc0bb</gx:fid>
+		<LookAt>
+			<longitude>34.2403219</longitude>
+			<latitude>31.3117931</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>932.7288743633584</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_08125DC87538E63C846F</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>34.2403224,31.3117889,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08DDA5F62538E63F5384">
+		<name>Friends Sports Club</name>
+		<gx:mid>/g/11nnn2rstq</gx:mid>
+		<gx:fid>0x14fd832b0ea6a201:0x17435ed0821fee17</gx:fid>
+		<LookAt>
+			<longitude>34.4156569</longitude>
+			<latitude>31.4981732</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>930.6777943416006</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_08125DC87538E63C846F</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>34.4156569,31.4981732,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
